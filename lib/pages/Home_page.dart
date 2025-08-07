@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: Text('AH FixRight')),
+      appBar: AppBar(centerTitle: true, title: Text('AH FixRight ABC')),
 
       body: Center(child: Container(child: Text("Hello $name , How are you Muntazir mehdi  "))),
       drawer: Drawer(),
